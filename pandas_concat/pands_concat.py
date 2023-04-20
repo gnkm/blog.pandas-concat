@@ -1,6 +1,5 @@
 """https://blog.gnkm.info/pandas-concat の記事で扱ったソースコード
 """
-import sys
 import pandas as pd
 
 SEPARATOR = " ===== ===== ===== "
